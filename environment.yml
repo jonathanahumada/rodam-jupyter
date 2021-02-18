@@ -1,0 +1,10 @@
+name: rodam
+channels:
+  - defaults
+dependencies:
+  - pip
+  - jupyter
+  - sphinx
+  - recommonmark
+  - sqlalchemy
+prefix: /usr/local/Caskroom/miniconda/base/envs/rodam
